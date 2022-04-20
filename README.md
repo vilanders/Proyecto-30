@@ -1,2 +1,1 @@
-# Proyecto-30
-TIRO CON ARCO ÉPICO - ETAPA 3
+
